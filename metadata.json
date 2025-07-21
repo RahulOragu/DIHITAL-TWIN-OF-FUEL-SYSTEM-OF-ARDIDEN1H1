@@ -1,0 +1,6 @@
+{
+  "name": "Copy of 2nd DIGITWIN @ PESU",
+  "description": "A high-fidelity digital twin of a helicopter's Multi-Pump Fuel Injection System (MPS) for the Turbomeca Shakti 1H1 engine. This interactive application allows for real-time monitoring, simulation of various failure modes based on FMEA data, and analysis of system performance.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
